@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aastha Malhotra
 - 👀 I’m interested in Data Analytics/ Data Science
-- 🌱 I’m currently a graduate student at Virginia Commonwealth University pursuing Masters of Decision Analytics
+- 🌱 Masters of Decision Analytics graduate at Virginia Commonwealth University
 
 <!---
 aastha11m/aastha11m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
